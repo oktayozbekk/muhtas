@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "61490424882",
+    "project_id": "oktaymuhtas",
+    "storage_bucket": "oktaymuhtas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61490424882:android:a054d230bad91dcb4a602b",
+        "android_client_info": {
+          "package_name": "com.example.oktaymuhtas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61490424882-mlvk90hp7m2ogc0s3lav4dm9m54sejqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxJQgvOprKh44ynSDY4E_rrDrBHKD8i4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61490424882-mlvk90hp7m2ogc0s3lav4dm9m54sejqv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61490424882-0b549evrkpj8sncud31vh27ciet851on.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oktaymuhtas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
