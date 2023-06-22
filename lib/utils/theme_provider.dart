@@ -17,6 +17,8 @@ class MyThemes {
     colorScheme: const ColorScheme.dark(),
   );
 
+
+
   static final lightTheme = ThemeData(
     scaffoldBackgroundColor: Colors.white,
     primaryColor: Colors.black87,
